@@ -49,8 +49,11 @@ Rezaei, Hadi, Hamidreza Faaljou and Gholamreza Mansourfar. “Stock price predic
 ## Developer and License
 
 This project is a part of the experiments as done in the original paper cited. Proper process needs to be followed before using the paper.
+
 Developer Name: Somesh Agrawal
+
 Original Paper:
+
 Rezaei, Hadi, Hamidreza Faaljou and Gholamreza Mansourfar. “Stock price prediction using deep learning and frequency decomposition.” Expert Syst. Appl. 169 (2020): 114332.
 
 
