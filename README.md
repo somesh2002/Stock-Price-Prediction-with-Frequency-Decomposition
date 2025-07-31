@@ -3,15 +3,17 @@
 
 ## Abstract
 
+There is a high volatility and Non Linearity within the Financial Time Series Data, and it made difficult to stoch price prediction. But the recent developments in Deep Learning Methods have shown significant imrovment in the analyzing these time series data. Further frequency decomposition technique such as Empirical Mode Decomposition (EMD) and Complete Ensemble Empirical Mode Decom
+position (CEEMD) algorithms to decompose time series to differnt frequency spectra, and models can be trained to anayze differnt frequency spectra. Based on this theoritical fraework, there are two differnt models,CEEMD-CNN-LSTM and EMD-CNN-LSTM, which can be put to use for extracting deep features from the data. he concept of the suggested algorithm is that  when combining these models, some collaboration is established between them that could enhance the analytical power of the model. Further, the suggested algorithm with CEEMD provides better performance compared to EMD. 
+
 ## Datasets
+The original dataset has been downloaded using yFinance for the following stock data ("S&P500","Dow Jones","DAX","Nikkei225"). Only Closing values of the stocks has been considered for the process. The timeline for the stock data is between the period from  January 2010 to October 2019. A csv file for the dataset has been also given in the dataset. Exact symbols can be accesses through the YFinance Website.
 
 ## Methodology
 
-## Training and Preprocessing
+All the details about the methodology has been given in the report inside the docs folder. 
 
-## Experimentations
-
-## Results
+### Results
 
 ## Folder Structure
 Overview:
